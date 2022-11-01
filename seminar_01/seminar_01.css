@@ -1,0 +1,33 @@
+body {
+    margin: 0px;
+    padding: 0px;
+}
+
+.container {    
+display: flex;
+justify-content: center;
+height: 30px;
+min-width: 200px;
+
+}
+
+.container2 {
+    display: flex;
+    justify-content: center;
+    flex-wrap: wrap;
+}
+
+.container2 button:nth-child(odd){
+    background-color: green;
+ 
+    height: 30px;
+    min-width: 200px;
+}
+
+.container2 button:nth-child(even){
+    background-color: yellow;
+
+    height: 30px;
+    min-width: 200px;
+}
+
