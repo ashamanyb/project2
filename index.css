@@ -1,0 +1,273 @@
+.grid {
+    display: grid;
+    grid-template-columns: 12fr 0.5fr 
+}
+
+.div1 {
+    background-color:green;
+    height: 30px;
+}
+
+.div2 {
+    background-color: blue;
+    height: 30px;
+}
+
+.grid1 {
+   display:grid;
+   grid-template-columns: 5fr 5fr
+
+}
+
+.div3 {
+    background-color: blue;
+    height: 30px;
+}
+
+.div4 {
+    background-color: red;
+    height: 30px;
+}
+
+.grid3 {
+    display: grid;
+    grid-template-columns: 0.5fr 11.5fr 0.5fr;
+}
+
+.div5 {
+    background-color: red;
+    height: 30px;
+}
+
+.div6 {
+    background-color: green;
+    height: 30px;
+}
+
+.div7 {
+    background-color: blue;
+    height: 30px;
+}
+
+.grid4 {
+    display: grid;
+    grid-template-columns: 12fr 0.5fr
+}
+
+.div8 {
+    background-color: red;
+    height: 30px;
+}
+
+.div9 {
+    background-color: blue;
+    height: 30px;
+}
+
+.grid5 {
+    display: grid;
+    grid-template-columns: 10fr 0fr
+}
+
+.div10 {
+    background-color: green;
+    height: 5px;
+}
+
+.grid6 {
+    display: grid;
+    grid-template-columns: 6fr 0.3fr 6fr
+}
+
+.div11 {
+    background-color: green;
+    height: 20px;
+}
+
+.div12 {
+    background-color: red;
+    height: 20px;
+}
+
+.div13 {
+    background-color: green;
+    height: 20px;
+}
+
+.grid7 {
+    display: grid;
+    grid-template-columns: 10fr 0fr
+}
+
+.div14 {
+    background-color: green;
+    height: 5px;
+
+}
+
+.grid8 {
+    display: grid;
+    grid-template-columns: 47.5% 5% 47.5%;
+}
+
+.div15 {
+    background-color: red;
+    height: 30px;
+}
+
+.div16 {
+    background-color: blue;
+    height: 30px;
+}
+
+.div17{
+    background-color: red;
+    height: 30px;
+}
+
+.grid9 {
+    display: grid;
+    grid-template-columns: 0.5fr 12fr;
+}
+
+.div18 {
+    background-color: red;
+    height: 10px;
+}
+
+.div19{
+    background-color: blue;
+    height: 10px;
+}
+
+.grid10 {
+    display: grid;
+    grid-template-columns: 0.5fr 12fr;
+}
+
+.div20 {
+    background-color: red;
+    height: 10px;
+}
+
+.div21 {
+    background-color: green;
+    height: 10px;
+}
+
+.grid11 {
+    display: grid;
+    grid-template-columns: 0.5fr 12fr;
+}
+
+.div22 {
+    background-color: red;
+    height: 10px;
+}
+
+.div23 {
+    background-color: blue;
+    height: 10px;
+}
+
+.grid12 {
+    display: grid;
+    grid-template-columns: 0.5fr 2.5fr 0.5fr 2.5fr 0.5fr 2.5fr 0.5fr 2.5fr 0.5fr;
+}
+
+.div24 {
+    background-color: orange;
+    height: 30px;
+}
+
+.div25 {
+    background-color: green;
+    height: 30px;
+}
+
+.div26 {
+    background-color: orange;
+    height: 30px;
+}
+
+.div27 {
+    background-color: green;
+    height: 30px;
+}
+
+.div28 {
+    background-color: orange;
+    height: 30px;
+}
+
+.div29 {
+    background-color: green;
+    height: 30px;
+}
+
+.div30 {
+    background-color: orange;
+    height: 30px;
+}
+
+.div31 {
+    background-color: green;
+    height: 30px;
+}
+
+.div32 {
+    background-color: orange;
+    height: 30px;
+}
+
+
+
+.grid13 {
+    display: grid;
+    grid-template-columns: 2.4fr 0.125fr 2.4fr 0.125fr 2.4fr 0.125fr 2.4fr 0.125fr 2.4fr;
+}
+
+.div33 {
+    background-color: orange;
+    height: 30px;
+}
+
+.div34 {
+    background-color: green;
+    height: 30px;
+}
+
+.div35 {
+    background-color: orange;
+    height: 30px;
+}
+
+.div36 {
+    background-color: green;
+    height: 30px;
+}
+
+.div37 {
+    background-color: orange;
+    height: 30px;
+}
+
+.div38 {
+    background-color: green;
+    height: 30px;
+}
+
+.div39 {
+    background-color: orange;
+    height: 30px;
+}
+
+.div40 {
+    background-color: green;
+    height: 30px;
+}
+
+.div41 {
+    background-color: orange;
+    height: 30px;
+}
