@@ -1,0 +1,282 @@
+/* kanit-regular - latin */
+@font-face {
+  font-family: "Kanit";
+  font-style: normal;
+  font-weight: 400;
+  src: local(""), url("../fonts/kanit-v12-latin-regular.woff2") format("woff2"),
+    /* Chrome 26+, Opera 23+, Firefox 39+ */
+      url("../fonts/kanit-v12-latin-regular.woff") format("woff"); /* Chrome 6+, Firefox 3.6+, IE 9+, Safari 5.1+ */
+}
+/* kanit-500 - latin */
+@font-face {
+  font-family: "Kanit";
+  font-style: normal;
+  font-weight: 500;
+  src: local(""), url("../fonts/kanit-v12-latin-500.woff2") format("woff2"),
+    /* Chrome 26+, Opera 23+, Firefox 39+ */
+      url("../fonts/kanit-v12-latin-500.woff") format("woff"); /* Chrome 6+, Firefox 3.6+, IE 9+, Safari 5.1+ */
+}
+/* kanit-600 - latin */
+@font-face {
+  font-family: "Kanit";
+  font-style: normal;
+  font-weight: 600;
+  src: local(""), url("../fonts/kanit-v12-latin-600.woff2") format("woff2"),
+    /* Chrome 26+, Opera 23+, Firefox 39+ */
+      url("../fonts/kanit-v12-latin-600.woff") format("woff"); /* Chrome 6+, Firefox 3.6+, IE 9+, Safari 5.1+ */
+}
+/* kanit-700 - latin */
+@font-face {
+  font-family: "Kanit";
+  font-style: normal;
+  font-weight: 700;
+  src: local(""), url("../fonts/kanit-v12-latin-700.woff2") format("woff2"),
+    /* Chrome 26+, Opera 23+, Firefox 39+ */
+      url("../fonts/kanit-v12-latin-700.woff") format("woff"); /* Chrome 6+, Firefox 3.6+, IE 9+, Safari 5.1+ */
+}
+
+@import url("https://fonts.googleapis.com/css2?family=Kanit&display=swap");
+
+:root {
+  --bs-body-font-family: "Kanit";
+}
+
+.header {
+  background-color: white !important;
+}
+.containerHeader {
+  margin-left: 80px;
+  margin-right: 80px;
+}
+
+.nav-link {
+  color: #081e34;
+}
+.nav-link:last-child {
+  margin-left: 8px;
+  padding-left: 14px;
+  display: flex;
+  align-items: center;
+  margin-right: 0px;
+  background-color: rgba(8, 30, 52, 0.12);
+  border-radius: 100px;
+}
+
+.containerFirstPage {
+  margin-left: 80px;
+  margin-right: 80px;
+}
+
+.howItWorksButton {
+  padding: 16px 24px;
+  gap: 10px;
+  width: 144px !important;
+  height: 50px !important;
+  background: #712fff !important;
+  border-radius: 100px !important;
+  color: #ffffff !important;
+  font-weight: 500 !important;
+  font-size: 14px !important;
+  line-height: 18px !important;
+  border-color: #712fff !important;
+}
+.textTitle {
+  max-width: 400px;
+  font-size: calc(1rem + 2vw);
+  /* height: 192px; */
+  /* font-weight: 700; */
+  /* font-size: 54px; */
+  /* line-height: 64px; */
+}
+
+.descriptionText {
+  max-width: 495px;
+  margin-top: 32px;
+  font-size: calc(8px + 1vw);
+  /* font-weight: 500;
+  font-size: 16px;
+  line-height: 22px; */
+}
+
+.secondContent {
+  /* margin-top: 86px; */
+}
+.descriptonTextSecond {
+  margin-bottom: 12px;
+  font-weight: 400;
+  font-size: 12px;
+  line-height: 16px;
+}
+
+.secondTitleText {
+  font-size: calc(1rem + 2vw);
+  /* font-size: 54px;
+  line-height: 56px; */
+}
+
+.logo1Pic {
+  margin-left: 14px;
+  width: 35.13px;
+  height: 64px;
+}
+
+.titleUnder1 {
+  display: flex;
+  justify-content: flex-start;
+  font-weight: 700;
+  font-size: 24px;
+  line-height: 28px;
+  margin-top: 48px;
+}
+
+.descriptionUnderTitle {
+  display: flex;
+  justify-content: flex-start;
+  font-weight: 500;
+  font-size: 16px;
+  line-height: 22px;
+  margin-top: 24px;
+}
+
+.logo2Pic {
+  margin-left: 14px;
+  display: flex;
+  justify-content: flex-start;
+  width: 48.3px;
+  height: 64px;
+}
+
+.titleUnder2 {
+  display: flex;
+  justify-content: flex-start;
+  font-weight: 700;
+  font-size: calc(10px + 1vw);
+  line-height: 22px;
+  margin-top: 48px;
+}
+
+.descriptionUnderTitle2 {
+  display: flex;
+  justify-content: flex-start;
+  font-weight: 500;
+  font-size: 16px;
+  line-height: 22px;
+  margin-top: 24px;
+}
+
+.logoPic3 {
+  display: flex;
+  justify-content: flex-start;
+  width: 48.57px;
+  height: 64px;
+}
+
+.titleUnder3 {
+  display: flex;
+  justify-content: flex-start;
+  font-weight: 700;
+  font-size: 24px;
+  line-height: 28px;
+  margin-top: 48px;
+}
+
+.descriptionUnderTitle3 {
+  display: flex;
+  justify-content: flex-start;
+  font-weight: 500;
+  font-size: 16px;
+  line-height: 22px;
+  margin-top: 24px;
+}
+
+.container_1 {
+  background-color: #e1dee7;
+  padding-left: 80px;
+  padding-right: 80px;
+}
+
+.containerThird {
+  background-color: #f1f1f1;
+  padding-top: 100px;
+  padding-bottom: 100px;
+}
+
+.containerThirdTitle {
+  margin-left: 80px;
+  /* font-weight: 700;
+  font-size: 54px;
+  line-height: 64px; */
+  font-size: calc(1rem + 2vw);
+}
+
+.containerThirdDescrip {
+  max-width: 550px;
+  font-weight: 500;
+  font-size: 16px;
+  line-height: 22px;
+  margin-top: 32px;
+  padding-left: 80px;
+  margin-bottom: 32px;
+}
+
+.searchField {
+  margin-left: 80px;
+}
+
+.form-control {
+  max-width: 619px;
+  margin-right: 32px;
+  border-radius: 12px !important;
+  height: 50px !important;
+  min-width: 312px !important;
+}
+
+.findJobButton {
+  width: 106px;
+  height: 50px;
+  border-radius: 100px !important;
+  background-color: #712fff !important;
+  color: #f1f1f1;
+  border-color: #712fff;
+  font-weight: 500 !important;
+  font-size: 14px !important;
+  line-height: 18px !important;
+  margin-top: 0px !important;
+}
+
+.containerFourth {
+  background-color: #f1f1f1;
+  padding: 60px 80px;
+}
+
+.textTitleFourth {
+  max-width: 391px;
+  /* font-weight: 600;
+  font-size: 54px;
+  line-height: 56px; */
+  font-size: calc(1rem + 2vw);
+}
+
+.descriptionTextFourth {
+  margin-top: 32px;
+  max-width: 470px;
+  font-weight: 500;
+  font-size: 16px;
+  line-height: 22px;
+  margin-bottom: 32px;
+}
+
+.buttonFourth {
+  /* padding: 16px 24px 16px 16px; */
+  gap: 8px;
+  border-color: #712fff;
+  width: 114px !important;
+  height: 50px;
+  color: #ffffff;
+  background: #712fff;
+  border-radius: 100px;
+}
+
+.navFooter {
+  text-decoration: none;
+}
